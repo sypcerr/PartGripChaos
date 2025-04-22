@@ -3,7 +3,7 @@ PartGripChaos is a Roblox script that pulls a set number of unanchored parts to 
 
 Loadstring: 
 ```lua
-loadstring(game:HttpGet((''),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/sypcerr/PartGripChaos/refs/heads/main/script'),true))()
 ```
 
 
